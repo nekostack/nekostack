@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning node.js&Os
+- 🔭 I’m currently studying in HDU
+- 😄 Pronouns: workaholic，otaku，anime lovers
 <!--
 **nekostack/nekostack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
