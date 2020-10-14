@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning node.js&Os
+- 🌱 I’m currently learning node.js Vue
 - 🔭 I’m currently studying in HDU
 - 😄 Pronouns: workaholic，otaku，anime lovers
 <!--
